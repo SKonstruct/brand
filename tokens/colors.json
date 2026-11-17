@@ -1,0 +1,15 @@
+{
+  "ground": "#000000",
+  "surface": "#141414",
+  "text": "#FFFFFF",
+  "textSecondary": "#A6A6A6",
+  "pink": "#AB4A81",
+  "logoMint": "#C0DEDC",
+  "logoOutline": "#75A09C",
+  "amber": "#F2BF3A",
+  "highlight": "#FBC65B",
+  "spiralKnights": {
+    "gold": "#FFC134",
+    "teal": "#43CDCA"
+  }
+}
