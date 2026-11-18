@@ -8,6 +8,14 @@
   "logoOutline": "#75A09C",
   "amber": "#F2BF3A",
   "highlight": "#FBC65B",
+  "pinkText": "#E08BBB",
+  "pinkHover": "#B04F86",
+  "pinkPressed": "#963F6E",
+  "onPink": "#FFFFFF",
+  "surfaceElevated": "#1E1E1E",
+  "error": "#FF7B72",
+  "success": "#43CDCA",
+  "warning": "#F2BF3A",
   "spiralKnights": {
     "gold": "#FFC134",
     "teal": "#43CDCA"
